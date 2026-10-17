@@ -14,4 +14,4 @@ def divide(a, b):
 
 if __name__ == "__main__":
   print(f"Welcome to the Group Calculator!, written by {CONTRIBUTORS}")
-  print(f"Multiplication: 2 * 2 = {multiply(2, 2)}")
+  print(multiply(3, 4))

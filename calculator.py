@@ -1,4 +1,4 @@
-CONTRIBUTORS = ["Manh Duc NGUYEN", "Minh"] # Conflicts generator 1
+CONTRIBUTORS = ["Minh", "Manh Duc NGUYEN"] # Conflicts generator 1
 
 def add(a, b):
   return a + b
